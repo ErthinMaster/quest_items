@@ -7,13 +7,13 @@
     "Introduction" : {
         "Environnement & Chasse" : {}, 
         "L'equipment du chasseur" : {},
-        "Le bon et le mauvais chasseur" : {}:
+        "Le bon et le mauvais chasseur" : {}
     },
     "Les forêts de Veilleurandes" : {            
             "Le Garde chasse" : {
-                "Le Bas Jardin"
-                "La Grande forêt"
-                ""
+                "Le Bas Jardin" : {},
+                "La Grande forêt" : {}
+                "" : {}
             },
             "La forêt des Sapins" : {},
             "La forêt des Bouleaux" : {}
