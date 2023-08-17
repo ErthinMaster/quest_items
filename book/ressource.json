@@ -7,41 +7,41 @@
     "Introduction" : {
         "Environnement & Chasse" : {}, 
         "L'equipment du chasseur" : {},
-        "Le bon et le mauvais chasseur" : {},       
+        "Le bon et le mauvais chasseur" : {}    
     },
      "La guilde des chasseur ici et ailleurs" : {
             "Veilleurande" : {},
             "Nadira" : {},
             "Numesberin" : {},
             "Larsking" : {},
-            "Royaume de Méride" : {},
+            "Royaume de Méride" : {}
     },
     "La chasse magique" : {
-        "La magie de la chasse",
+        "La magie de la chasse" : {},
         "Chasse magique" : {
-            "La Magie, injuste pour les proies.",
-            "Régulation sur l'utilisation de la magie.",
-            "Exception pour la magie."
+            "La Magie, injuste pour les proies." : {},
+            "Régulation sur l'utilisation de la magie." : {},
+            "Exception pour la magie." : {}
         }
-    }.
+    },
     "La chasse sauvage" : {
-        "Délimitation des térritoires de chasses sauvage",
-        "Droit de commerce avec les chasseurs non membre"
+        "Délimitation des térritoires de chasses sauvage" : {},
+        "Droit de commerce avec les chasseurs non membre" : {}
     },
     "Les forêts de Veilleurandes" : {            
             "Le Garde chasse" : {
                 "Le Bas Jardin" : {},
-                "La Grande forêt" : {},
-                "" : {}
+                "La Grande Forêt" : {},
+                "Le Terrain Royale" : {}
             },
             "La forêt des Sapins" : {},
             "La forêt des Bouleaux" : {}
-        },
+    },
     "Le bestiaire de Veilleurande":{
         "Aigle royal" : {},
         "Alouette" : {
             "Alouette des champs" : {},
-            "Alouette lulu" : {},
+            "Alouette lulu" : {}
         },
         "Bécasse des bois" : {},
         "Belette" : {},
@@ -140,7 +140,7 @@
             "Mouette pygmée" : {},
             "Mouette rieuse" : {},
             "Mouette tridactyle" : {}
-        }
+        },
         "Mouflon" : {},
         "Ours brun" : {},
         "Pélican frisé" : {},
@@ -157,7 +157,7 @@
             "Pie grièche à poitrine rose" : {},
             "Pie grièche grise" : {},
             "Pie-grièche écorcheur" : {}
-        }
+        },
         "Pigeon biset" : {},
         "Pinson des arbres" : {},
         "Porc-épic" : {},
